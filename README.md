@@ -1,6 +1,6 @@
 # Aulas sobre Python
 
-Codigos feitos durantes as aulas de Python na Unicamp.
+Codigos feitos durante as aulas de Python na Unicamp.
 
 ### Sites Uteis
 
