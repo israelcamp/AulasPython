@@ -2,6 +2,10 @@
 
 Codigos feitos durante as aulas de Python na Unicamp.
 
+### Anaconda
+
+Baixe o [Anaconda](https://www.anaconda.com/download/) para instalar o python, jupyter notebook e outras funcionalidades. 
+
 ### Sites Uteis
 
 * [Python Docs](https://docs.python.org/3/)
