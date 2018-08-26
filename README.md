@@ -16,3 +16,4 @@ Baixe o [Anaconda](https://www.anaconda.com/download/) para instalar o python, j
 
 * 06/08/2018 - [Aula 1](https://github.com/israelcamp/AulasPython/tree/master/Aula1)
 * 13/08/2018 - [Aula 2](https://github.com/israelcamp/AulasPython/tree/master/Aula2)
+* 20/08/2018 - [Aula 3](https://github.com/israelcamp/AulasPython/tree/master/Aula3)
