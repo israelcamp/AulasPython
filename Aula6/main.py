@@ -20,9 +20,18 @@ perceptron = Perceptron(1e-3)
 
 @window.event
 def on_key_press(symbol, modifiers):
+    global dataset, perceptron
     if symbol is key.W:
         for x, y in dataset:
             perceptron.train(x, y)
+    elif symbol is key.D:
+        dataset = Dataset(30)
+    elif symbol is key.P:
+        perceptron = Perceptron(1e-3)
+    elif symbol is key.L:
+        perceptron.lr *= 1.5
+    elif symbol is key.M:
+        perceptron.lr *= 0.9
 
 def train(dt):
     for x,y in dataset:
