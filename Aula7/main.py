@@ -3,20 +3,23 @@ from pyglet.window import mouse, key
 from pyglet.gl import *
 
 import shapes
-from dataset import Dataset
+from dataset import Dataset2D
 from perceptron import Perceptron
 
 dim = 600
-delta = 50 ## 50 represents a scale of one
+delta = 50  # 50 represents a scale of one
 
 #creates window
-window = pyglet.window.Window(dim, dim, caption='Linear Regression', resizable=True)
+window = pyglet.window.Window(
+    dim, dim, caption='Linear Regression', resizable=True)
 pyglet.gl.glClearColor(1.0, 1.0, 1.0, 1.0)
 
+size = 60
 ## Creating the dataset
-dataset = Dataset(30)
+dataset = Dataset2D(size)
 ## Creating the perceptron
-perceptron = Perceptron(1e-3)
+perceptron = Perceptron(1e-2)
+
 
 @window.event
 def on_key_press(symbol, modifiers):
@@ -25,17 +28,19 @@ def on_key_press(symbol, modifiers):
         for x, y in dataset:
             perceptron.train(x, y)
     elif symbol is key.D:
-        dataset = Dataset(30)
+        dataset = Dataset2D(size)
     elif symbol is key.P:
-        perceptron = Perceptron(1e-3)
+        perceptron = Perceptron(1e-2)
     elif symbol is key.L:
-        perceptron.lr *= 1.5
+        perceptron.lr *= 1.1
     elif symbol is key.M:
         perceptron.lr *= 0.9
 
+
 def train(dt):
-    for x,y in dataset:
+    for x, y in dataset:
         perceptron.train(x, y)
+
 
 @window.event
 def on_draw():
@@ -55,5 +60,6 @@ def on_draw():
     ##
     glPopMatrix()
 
-pyglet.clock.schedule_interval(train, 0.01)
+
+pyglet.clock.schedule_interval(train, 0.4)
 pyglet.app.run()

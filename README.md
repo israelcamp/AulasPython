@@ -22,3 +22,4 @@ Baixe o [Anaconda](https://www.anaconda.com/download/) para instalar o python, j
 * 03/09/2018 - [Aula 4](https://github.com/israelcamp/AulasPython/tree/master/Aula4) - Exercícios e Dúvidas
 * 10/09/2018 - [Aula 5](https://github.com/israelcamp/AulasPython/tree/master/Aula5) - Polinomios
 * 24/09/2018 - [Aula 6](https://github.com/israelcamp/AulasPython/tree/master/Aula6) - Regressao Linear
+* 01/10/2018 - [Aula 7](https://github.com/israelcamp/AulasPython/tree/master/Aula7) - Classificado Linear
