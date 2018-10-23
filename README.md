@@ -25,3 +25,4 @@ Baixe o [Anaconda](https://www.anaconda.com/download/) para instalar o python, j
 * 01/10/2018 - [Aula 7](https://github.com/israelcamp/AulasPython/tree/master/Aula7) - Classificador Linear
 * 08/10/2018 - [Aula 8](https://github.com/israelcamp/AulasPython/tree/master/Aula8) - Introducao pandas e NNs
 * 15/10/2018 - [Aula 9](https://github.com/israelcamp/AulasPython/tree/master/Aula9) - Continuacao da aula passada
+* 22/10/2018 - [Aula 10](https://github.com/israelcamp/AulasPython/tree/master/Aula10) - Finalizando a rede neural
