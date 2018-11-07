@@ -26,3 +26,4 @@ Baixe o [Anaconda](https://www.anaconda.com/download/) para instalar o python, j
 * 08/10/2018 - [Aula 8](https://github.com/israelcamp/AulasPython/tree/master/Aula8) - Introducao pandas e NNs
 * 15/10/2018 - [Aula 9](https://github.com/israelcamp/AulasPython/tree/master/Aula9) - Continuacao da aula passada
 * 22/10/2018 - [Aula 10](https://github.com/israelcamp/AulasPython/tree/master/Aula10) - Finalizando a rede neural
+* 05/11/2018 - [Aula 11](https://github.com/israelcamp/AulasPython/tree/master/Aula11) - Introdução ao PyTorch
