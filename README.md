@@ -6,6 +6,20 @@ Codigos feitos durante as aulas de Python na Unicamp.
 
 Baixe o [Anaconda](https://www.anaconda.com/download/) para instalar o python, jupyter notebook e outras funcionalidades. 
 
+### Requirimentos
+
+Para criar um ambiente com `conda` faca:
+```
+conda create --name aulasenv --file conda_requirements.txt
+```
+
+Para instalar com `pip` faca:
+```
+pip install -r requirements.txt
+```
+
+Caso ocorra algum erro, procure remover os pacotes que contenham `gpu`, `cuda`, `cudnn` e tente novamente.
+
 ### Sites Uteis
 
 * [Python Docs](https://docs.python.org/3/)
