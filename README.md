@@ -29,7 +29,7 @@ Se seu computador possuir placa da nvidia [instale CUDA](https://docs.nvidia.com
 - [Numpy Docs](https://docs.scipy.org/doc/numpy-1.14.0/index.html)
 - [Real Python](https://realpython.com/)
 
-### Aulas
+### Aulas - Primeira Parte
 
 - 06/08/2018 - [Aula 1](https://github.com/israelcamp/AulasPython/tree/master/Aula1) - Introdução, Listas
 - 13/08/2018 - [Aula 2](https://github.com/israelcamp/AulasPython/tree/master/Aula2) - Dicionários
@@ -42,3 +42,7 @@ Se seu computador possuir placa da nvidia [instale CUDA](https://docs.nvidia.com
 - 15/10/2018 - [Aula 9](https://github.com/israelcamp/AulasPython/tree/master/Aula9) - Continuacao da aula passada
 - 22/10/2018 - [Aula 10](https://github.com/israelcamp/AulasPython/tree/master/Aula10) - Finalizando a rede neural
 - 05/11/2018 - [Aula 11](https://github.com/israelcamp/AulasPython/tree/master/Aula11) - Introdução ao PyTorch
+
+### Aulas - Segunda Parte
+
+- 11/03/2019 - [Aula 12](https://github.com/israelcamp/AulasPython/tree/master/Aula12) -
