@@ -46,3 +46,4 @@ Se seu computador possuir placa da nvidia [instale CUDA](https://docs.nvidia.com
 ### Aulas - Segunda Parte
 
 - 11/03/2019 - [Aula 12](https://github.com/israelcamp/AulasPython/tree/master/Aula12) -
+- 23/03/2019 - [Aula 13](https://github.com/israelcamp/AulasPython/tree/master/Aula13) - Dataset e DataLoader
