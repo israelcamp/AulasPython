@@ -48,3 +48,4 @@ Se seu computador possuir placa da nvidia [instale CUDA](https://docs.nvidia.com
 - 11/03/2019 - [Aula 12](https://github.com/israelcamp/AulasPython/tree/master/Aula12) -
 - 23/03/2019 - [Aula 13](https://github.com/israelcamp/AulasPython/tree/master/Aula13) - Dataset e DataLoader
 - 22/04/2019 - [Aula 14](https://github.com/israelcamp/AulasPython/tree/master/Aula14) - Loop de treinamento
+- 24/05/2019 - [Aula 15](https://github.com/israelcamp/AulasPython/tree/master/Aula14) - Data Augmentation
