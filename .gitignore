@@ -6,3 +6,8 @@ data/
 *.zip
 *.pickle
 *.ckp
+
+mnist_train
+logs
+runs
+torch_logs
